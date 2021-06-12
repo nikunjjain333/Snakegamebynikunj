@@ -16,6 +16,6 @@ Do not Delet any file.. It may crash the game! Start the game using Snake.py Fil
 Cheat code:
 press (a) to add extra 10 points.
 > Follow me on Instagram: 
-> Follow me on LinkedIn:
+> Follow me on LinkedIn: https://www.linkedin.com/in/nikunj-jain-26056017b/
 
 ThakYou!
